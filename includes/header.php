@@ -30,6 +30,7 @@
                         <a href="gastronomia.php" class="f4 link white dim mh3">Gastronomía</a>
                         <a href="festividades.php" class="f4 link white dim mh3">Festividades</a>
                         <a href="contacto.php" class="f4 link white dim mh3">Contacto</a>
+                        <a href="ubicacion.php" class="f4 link white dim mh3">Ubicación</a>
                     </nav>
 
                     <div class="flex items-center f4">
