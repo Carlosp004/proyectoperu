@@ -44,9 +44,9 @@
                 </a>
             </p>
             <div class="mt2 flex justify-center">
-                <a href="#" class="link white-70 hover-light-red mh2"><img src="logos/fb.png" alt="Facebook" class="w2 h-auto"></a>
-                <a href="#" class="link white-70 hover-light-red mh2"><img src="logos/ig.png" alt="Instagram" class="w2 h-auto"></a>
-                <a href="#" class="link white-70 hover-light-red mh2"><img src="logos/twiteer.png" alt="Twitter" class="w2 h-auto"></a>
+                <a href="https://www.facebook.com/peruwaynapicchu" class="link white-70 hover-light-red mh2"><img src="logos/fb.png" alt="Facebook" class="w2 h-auto"></a>
+                <a href="https://www.instagram.com/peruwaynapicchu/" class="link white-70 hover-light-red mh2"><img src="logos/ig.png" alt="Instagram" class="w2 h-auto"></a>
+                <a href="https://x.com/peruwaynapicchu?s=21" class="link white-70 hover-light-red mh2"><img src="logos/twiteer.png" alt="Twitter" class="w2 h-auto"></a>
             </div>
         </div>
 
