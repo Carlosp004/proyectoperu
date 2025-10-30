@@ -87,28 +87,28 @@
             <!-- w-25-l = 25% en pantallas grandes, w-100 en móviles -->
             <div class="w-25-l w-100 pa3 bg-white br3 shadow-3 ma2">
                 <!-- imagen con object-cover para mantener encuadre y h5 = altura fija -->
-                <img src="img/cusco.jpg" alt="Cusco" class="br3 grow shadow-1 mw-100 h5 object-cover">
+                <img src="img/cusco.jpg" alt="Cusco" class="br3 grow shadow-1 mw-100 h5">
                 <h4 class="dark-red mt3">Cusco</h4>
                 <p class="gray lh-copy">Antigua capital del Imperio Inca. Punto de partida hacia Machu Picchu.</p>
             </div>
 
             <!-- Tarjeta 2: Arequipa -->
             <div class="w-25-l w-100 pa3 bg-white br3 shadow-3 ma2">
-                <img src="img/arequipa.jpg" alt="Arequipa" class="br3 grow shadow-1 mw-100 h5 object-cover">
+                <img src="img/arequipa.jpg" alt="Arequipa" class="br3 grow shadow-1 mw-100 h5 ">
                 <h4 class="dark-red mt3">Arequipa</h4>
                 <p class="gray lh-copy">La “Ciudad Blanca”, rodeada por volcanes y reconocida por su arquitectura colonial.</p>
             </div>
 
             <!-- Tarjeta 3: Puno -->
             <div class="w-25-l w-100 pa3 bg-white br3 shadow-3 ma2">
-                <img src="img/puno.jpg" alt="Puno" class="br3 grow shadow-1 mw-100 h5 object-cover">
+                <img src="img/puno.jpg" alt="Puno" class="br3 grow shadow-1 mw-100 h5 ">
                 <h4 class="dark-red mt3">Puno</h4>
                 <p class="gray lh-copy">A orillas del lago Titicaca, cuna de danzas, tradiciones y leyendas.</p>
             </div>
 
             <!-- Tarjeta 4: Iquitos -->
             <div class="w-25-l w-100 pa3 bg-white br3 shadow-3 ma2">
-                <img src="img/iquitos.png" alt="Iquitos" class="br3 grow shadow-1 mw-100 h5 object-cover">
+                <img src="img/iquitos.png" alt="Iquitos" class="br3 grow shadow-1 mw-100 h5 ">
                 <h4 class="dark-red mt3">Iquitos</h4>
                 <p class="gray lh-copy">Capital de la Amazonía peruana, accesible solo por aire o río.</p>
             </div>
