@@ -44,17 +44,17 @@
                 </a>
             </p>
             <div class="mt2 flex justify-center">
-                <a href="#" class="link white-70 hover-light-red mh2"><img src="img/fb.png" alt="Facebook" class="w2 h-auto"></a>
-                <a href="#" class="link white-70 hover-light-red mh2"><img src="img/ig.png" alt="Instagram" class="w2 h-auto"></a>
-                <a href="#" class="link white-70 hover-light-red mh2"><img src="img/twiteer.png" alt="Twitter" class="w2 h-auto"></a>
+                <a href="#" class="link white-70 hover-light-red mh2"><img src="logos/fb.png" alt="Facebook" class="w2 h-auto"></a>
+                <a href="#" class="link white-70 hover-light-red mh2"><img src="logos/ig.png" alt="Instagram" class="w2 h-auto"></a>
+                <a href="#" class="link white-70 hover-light-red mh2"><img src="logos/twiteer.png" alt="Twitter" class="w2 h-auto"></a>
             </div>
         </div>
 
         <!-- 💳 Medios de pago -->
         <div class="flex items-center justify-center">
-            <img src="img/Visa_Logo.png" alt="Visa" class="w2 h-auto mh2">
-            <img src="img/Mastercard-logo.png" alt="Mastercard" class="w2 h-auto mh2">
-            <img src="img/diners-card.jpg" alt="Diners" class="w2 h-auto mh2">
+            <img src="logos/Visa_Logo.png" alt="Visa" class="w2 h-auto mh2">
+            <img src="logos/Mastercard-logo.png" alt="Mastercard" class="w2 h-auto mh2">
+            <img src="logos/diners-card.jpg" alt="Diners" class="w2 h-auto mh2">
         </div>
 
     </footer>
